@@ -1,0 +1,17 @@
+# Compiled class files
+*.class
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Enigma save files
+*.enigma
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.jar
