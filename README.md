@@ -23,6 +23,7 @@ The central orchestrator that ties everything together. Manages the complete lif
 
 **enigma-console (Presentation Layer)**  
 The user interface layer. Implements a menu-driven console application with state-aware navigation. Uses `ConsoleStateManager` to track the current state and show only relevant menu options. Completely decoupled from the business logic - communicates only through the `Engine` interface.
+
 ---
 
 ## Main Classes Documentation
