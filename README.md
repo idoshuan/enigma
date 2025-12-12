@@ -1,4 +1,4 @@
-![Front Page](front-page.png)
+![Front Page](enigma-readme-front-page.png)
 
 ---
 
