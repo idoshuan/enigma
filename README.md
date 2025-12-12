@@ -1,4 +1,3 @@
-![Front Page](enigma-readme-front-page.png)
 
 ---
 
